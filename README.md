@@ -8,6 +8,26 @@ I'm a car enthusiast who loves working on cars — wrenching, restoring, and mod
 
 ## Project 1: Mitsubishi Lancer Cedia
 
+### Details
+
+| | |
+|---|---|
+| Make / Model | Mitsubishi Lancer Cedia |
+| Year | TBD |
+| Engine | TBD |
+| Transmission | TBD |
+| Color | TBD |
+| Mileage | TBD |
+| Goal | Restoration & mods |
+
+### Photos
+
+Drop images in [`photos/cedia/`](photos/cedia) and link them here.
+
+| Before | After |
+|---|---|
+| _coming soon_ | _coming soon_ |
+
 Each phase lives on its own branch. When a phase is done, I merge it into `main` and tick its box.
 
 - [ ] **Phase 1 – Planning & Purchase** (`cedia/phase-1-planning`)
