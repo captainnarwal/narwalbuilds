@@ -28,6 +28,8 @@ Drop images in [`photos/cedia/`](photos/cedia) and link them here.
 |---|---|
 | _coming soon_ | _coming soon_ |
 
+### Phases
+
 Each phase lives on its own branch. When a phase is done, I merge it into `main` and tick its box.
 
 - [ ] **Phase 1 – Planning & Purchase** (`cedia/phase-1-planning`)
